@@ -47,3 +47,8 @@ tested that clustered placements tend to be closer to the space application agno
 promoted by the open source community
 
 You can find the document [here](https://tede.ufsc.br/teses/PGCC1238-D.pdf).
+
+## (Some) Products
+
+- https://github.com/vyk1/cluster-formation-mobility-based-algorithm
+- https://github.com/vyk1/cluster-experimentation-ops
