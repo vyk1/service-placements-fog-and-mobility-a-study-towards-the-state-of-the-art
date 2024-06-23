@@ -48,7 +48,8 @@ promoted by the open source community
 
 You can find the document [here](https://tede.ufsc.br/teses/PGCC1238-D.pdf).
 
-## (Some) Products
+## (Some) Productions
 
-- https://github.com/vyk1/cluster-formation-mobility-based-algorithm
 - https://github.com/vyk1/cluster-experimentation-ops
+- https://github.com/vyk1/cluster-formation-mobility-based-algorithm (3PGCIC 2022)
+- https://github.com/vyk1/exploring-architectural-strategies-for-mobility-experimentation-a-simulation-based-study (SAC 2024)
